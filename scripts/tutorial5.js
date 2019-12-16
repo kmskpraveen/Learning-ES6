@@ -6,12 +6,12 @@
 // So, they introduced 'let' IN ES6
 function greetPerson(name) {
     if (name === "Chandler") {
-        var greet = "Hello Chandler";
+        greet = "Hello Chandler";
     }
     else {
-        var greet = "Hi there";
+        greet = "Hi there";
     }
-    // var greet;
+    var greet;
     console.log(greet);
 }
 greetPerson("Chandler");
