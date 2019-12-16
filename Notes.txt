@@ -8,3 +8,5 @@ ES6 brings many new feature like concept of classes, template tags, arrow functi
 Almost all the modern browsers support ES6 
 but for the old browsers there are many transpilers e.g. Babel.js, Typescript, Traceur, etc.
 those we need to include at top of our code to transpile ES6 to ES5 (Javascript with old standards).
+
+ScratchJS a chrome extension which transforms ES6 to ES5..
