@@ -1,0 +1,6 @@
+ES6 is basically EcmaScript 6 / EcmaScript 2015.
+
+EcmaScript is not any scripting language instead a standard that Javascript is based upon. 
+So, ES6 is a new version or new standard of Javascript.
+
+ES6 brings many new feature like concept of classes, template tags, arrow functions etc.
